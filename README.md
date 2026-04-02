@@ -73,7 +73,7 @@ TF05_2026/
 
 ### Execução Completa
 ```bash
-git clone https://github.com/Bruno-rdj/Software-Ale5.git
+git clone https://github.com/ysagazxd/TF-ALE05
 cd TF05_2026
 
 # Build automatizado
