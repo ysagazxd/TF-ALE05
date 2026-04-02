@@ -1,8 +1,8 @@
 # TF05 - Sistema de Monitoramento e Automação
 
 ## Aluno
-- **Nome:** Bruno Rocha Rozadas de Jesus
-- **RA:** 6324038
+- **Nome:** Allison Henrique da Silva Oliveira 
+- **RA:** 6324603
 - **Curso:** Análise e Desenvolvimento de Sistemas - UniFAAT
 
 ## Funcionalidades
