@@ -1,0 +1,24 @@
+thresholds:
+  response_time:
+    warning: 1000ms
+    critical: 5000ms
+
+  uptime:
+    warning: 95%
+    critical: 90%
+
+  error_rate:
+    warning: 5%
+    critical: 10%
+
+  memory_usage:
+    warning: 80%
+    critical: 95%
+
+  cpu_usage:
+    warning: 70%
+    critical: 90%
+
+  db_connections:
+    warning: 80
+    critical: 95

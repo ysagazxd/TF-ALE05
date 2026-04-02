@@ -1,0 +1,18 @@
+alerts:
+  email:
+    enabled: false
+    smtp_server: smtp.gmail.com
+    smtp_port: 587
+    username: alerts@example.com
+    password: app-password
+    recipients:
+      - admin@example.com
+      - devops@example.com
+
+  webhook:
+    enabled: false
+    url: https://hooks.slack.com/services/xxx
+    channel: "#alerts"
+    mention_on_critical: "@channel"
+
+  cooldown: 300s  # evita spam: mesmo alerta só reenvia após 5 min
